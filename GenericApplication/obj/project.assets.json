@@ -5214,11 +5214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\bsolohaga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

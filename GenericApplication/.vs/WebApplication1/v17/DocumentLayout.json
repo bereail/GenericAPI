@@ -1,29 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\generic-login-c-react\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\genericapi-git\\genericapi\\genericapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\genericapi-git\\genericapi\\genericapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\genericapi-git\\genericapi\\genericapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\generic-login-c-react\\webapplication1\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\genericapi-git\\genericapi\\genericapplication\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\generic-login-c-react\\webapplication1\\data\\repositories\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\genericapi-git\\genericapi\\genericapplication\\data\\repositories\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|solutionrelative:data\\repositories\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\generic-login-c-react\\webapplication1\\data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\genericapi-git\\genericapi\\genericapplication\\data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|solutionrelative:data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\generic-login-c-react\\webapplication1\\models\\dtos\\credentials\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\genericapi-git\\genericapi\\genericapplication\\models\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|solutionrelative:models\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\genericapi-git\\genericapi\\genericapplication\\models\\dtos\\credentials\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|solutionrelative:models\\dtos\\credentials\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\generic-login-c-react\\webapplication1\\services\\interfaces\\icustomauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|c:\\users\\bsolohaga\\desktop\\bere\\tutorial\\genericapi-git\\genericapi\\genericapplication\\services\\interfaces\\icustomauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{320A5D50-F3B4-44DB-B2BB-F0F8A1E377CE}|WebApplication1.csproj|solutionrelative:services\\interfaces\\icustomauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,47 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAACAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T14:54:00.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\Data\\Repositories\\UserService.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\UserService.cs",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\Data\\Repositories\\UserService.cs",
-              "RelativeToolTip": "Data\\Repositories\\UserService.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAuwCsAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T14:33:41.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\Data\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\Data\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Data\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T14:31:13.426Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -100,43 +73,122 @@
               "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T15:06:22.03Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAADwv2oAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T12:58:38.074Z",
+              "WhenOpened": "2024-07-29T15:01:21.808Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:54:00.857Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LoginRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\Models\\Dtos\\Credentials\\LoginRequestDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dtos\\Credentials\\LoginRequestDto.cs",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\Models\\Dtos\\Credentials\\LoginRequestDto.cs",
-              "RelativeToolTip": "Models\\Dtos\\Credentials\\LoginRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Data\\Repositories\\UserService.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\UserService.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Data\\Repositories\\UserService.cs",
+              "RelativeToolTip": "Data\\Repositories\\UserService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T12:57:14.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T14:33:41.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:58:38.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Models\\Dtos\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Models\\Dtos\\CreateUserDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\CreateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:25:36.956Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Data\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Data\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:31:13.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Models\\Dtos\\Credentials\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\Credentials\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Models\\Dtos\\Credentials\\LoginRequestDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\Credentials\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:57:14.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ICustomAuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\Services\\Interfaces\\ICustomAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Services\\Interfaces\\ICustomAuthenticationService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ICustomAuthenticationService.cs",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\Services\\Interfaces\\ICustomAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\Services\\Interfaces\\ICustomAuthenticationService.cs",
               "RelativeToolTip": "Services\\Interfaces\\ICustomAuthenticationService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T12:53:19.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T12:53:19.588Z"
             }
           ]
         },

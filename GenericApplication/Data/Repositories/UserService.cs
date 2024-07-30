@@ -3,6 +3,7 @@ using MiniMarket_API.Model.Entities;
 using WebApplication1.Data.Interfaces;
 using WebApplication1.Models;
 using System.Text;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebApplication1.Data.Repositories
 {
@@ -52,5 +53,12 @@ namespace WebApplication1.Data.Repositories
         // 
 
 
+        //traer user por id
+        public Task<Users?> GetUserByIdAsync(Guid id)
+        {
+            return _context.Users
+                .FirstOrDefaultAsync(x => x.Id == id);
+        }
+        //
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P2b4JfY9BPJVWjJRekIDO0vvEOHW8YdrngzUsbk/+pJ3lmuuHG2qQWCB/CiIQNYQCFVHA4T8nmmkLj3jT/jSLQ==",
+  "dgSpecHash": "F3CW9Iau51beVKLcvyqoyoGnXLnFuB93/iBCcDtusC+ZvQniFzLj6kdv0tpcHQCq+5n4g44iAYJXojXD9gSZWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\GENERIC-LOGIN-C-REACT\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\bsolohaga\\Desktop\\bere\\TUTORIAL\\genericAPI-GIT\\GenericAPI\\GenericApplication\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bsolohaga\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\bsolohaga\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
