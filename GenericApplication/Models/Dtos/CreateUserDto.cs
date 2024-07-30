@@ -11,8 +11,7 @@ namespace WebApplication1.Models.Dtos
 
         public string Email { get; set; }
 
-        [Required]
-        public byte[] Password { get; set; }
+        public string Password { get; set; }
 
         public string UserType { get; set; }
     }
